@@ -1,3 +1,6 @@
 .venv
 *.csv
 .idea
+
+# Allow the final dashboard data to be tracked
+!dashboard_data.csv
