@@ -1,6 +1,8 @@
 # 🍩 The Sugar Trap: Market Gap Analysis
 
-**Live Interactive Dashboard:** [Insert Your Streamlit URL Here]
+**Live Interactive Dashboard: [dashboard](https://the-market-gap-analysis-soln-kofi-kusi.streamlit.app/)** <br />
+**Presentation slides: [slides](https://github.com/kofi-kusi/the-market-gap-analysis-soln/blob/main/The%20Sugar%20Trap%20-%20Data%20Findings.pdf)** <br />
+**Notebook pdf: [notebook](https://github.com/kofi-kusi/the-market-gap-analysis-soln/blob/main/sugar_trap_analysis.ipynb%20-%20Colab.pdf)**
 
 ## 📊 Executive Summary
 This project analyzes the global Open Food Facts database to identify strategic market gaps for a new health-conscious snack product. By engineering a memory-efficient pipeline to process the raw dataset, mapping unstructured category tags, and visualizing the competitive landscape, the analysis reveals two key insights:
