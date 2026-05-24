@@ -77,10 +77,10 @@ st.info("""
 **Recommendation:** 
 Based on the matrix, the market is saturated with high-sugar confectionery and baked goods. However, there is a distinct lack of **Baked Goods** in the high-protein, low-sugar quadrant. 
 
-To formulate a new product for this gap, text analysis reveals that the top 3 protein sources currently utilized by successful high-protein products are:
-1. **Soy**
-2. **Pea**
-3. **Peanut**
+To formulate a new product for this gap, text analysis of 4,651 high-protein snacks reveals that the top 3 protein sources currently utilized by successful products are:
+1. **Soy** (found in 928 products)
+2. **Pea** (found in 755 products)
+3. **Peanut** (found in 588 products)
 
-We recommend developing a low-sugar Baked Good utilizing a blend of these proven ingredients.
+We recommend developing a low-sugar Baked Good utilizing a blend of these proven plant-based ingredients to capture this market gap.
 """)
